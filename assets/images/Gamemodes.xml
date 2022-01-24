@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gamemodes.png">
+	<SubTexture name="remember0000" x="0" y="0" width="164" height="164"/>
+	<SubTexture name="twist0000" x="180" y="0" width="164" height="164"/>
+	<SubTexture name="chase0000" x="364" y="0" width="164" height="164"/>
+	<SubTexture name="find0000" x="548" y="0" width="164" height="164"/>
+</TextureAtlas>
