@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="circleSprite.png">
+	<SubTexture name="normal0000" x="0" y="0" width="164" height="164"/>
+	<SubTexture name="good0000" x="164" y="0" width="164" height="164"/>
+	<SubTexture name="bad0000" x="328" y="0" width="164" height="164"/>
+</TextureAtlas>
