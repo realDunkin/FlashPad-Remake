@@ -3,4 +3,6 @@
 	<SubTexture name="normal0000" x="0" y="0" width="164" height="164"/>
 	<SubTexture name="good0000" x="164" y="0" width="164" height="164"/>
 	<SubTexture name="bad0000" x="328" y="0" width="164" height="164"/>
+	<SubTexture name="mine0000" x="492" y="0" width="164" height="164"/>
+	<SubTexture name="cheat0000" x="656" y="0" width="164" height="164"/>
 </TextureAtlas>
